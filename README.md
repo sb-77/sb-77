@@ -15,5 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://capsule-render.vercel.app/api?text=capsule_render&animation=fadeIn" />
-![header](https://capsule-render.vercel.app/api?text=Hello%World!&fontSize=20&rotate=-30)
+<img src="https://capsule-render.vercel.app/api?type=Venom&text=capsule_render&animation=fadeIn" />
