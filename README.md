@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
 
-<img src="https://capsule-render.vercel.app/api?type=waving&" />
+<img src="https://capsule-render.vercel.app/api?type=waving&text=Hello%SUBIN World!&fontColor=d6ace6" />
 
