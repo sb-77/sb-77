@@ -16,4 +16,5 @@ Here are some ideas to get you started:
 -->
 
 
-<img src="https://capsule-render.vercel.app/api?height=400&text=Hello%20World!&desc=Hello%20capsule%20render" />
+<img src="https://capsule-render.vercel.app/api?type=waving&&descSize=30" />
+
