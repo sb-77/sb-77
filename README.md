@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F361DC,100:FFD9EC&reversal=true&height=300&text=Hello%20SUBINWor%d!&fontColor=d6ace6&capsule_render&animation=fadeIn&fontSize=40" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F361DC,100:FFD9EC&reversal=true&height=300&text=Hello%20SUBIN%20World!&fontColor=d6ace6&capsule_render&animation=fadeIn&fontSize=40" />
 
