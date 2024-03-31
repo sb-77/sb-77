@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
 
-<img src="https://capsule-render.vercel.app/api?type=waving&&descSize=30" />
+<img src="https://capsule-render.vercel.app/api?type=waving&" />
 
