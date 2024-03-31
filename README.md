@@ -16,5 +16,6 @@ Here are some ideas to get you started:
 -->
 
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F361DC,100:FFD9EC&reversal=true&height=300&text=Hello%20안녕하세요!%20World!&fontColor=d6ace6&capsule_render&animation=fadeIn&fontSize=40" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F361DC,100:FFD9EC&reversal=true&height=300&text=Hello%20sb%20World!&fontColor=d6ace6&capsule_render&animation=fadeIn&fontSize=40" />
+search" src="https://img.shields.io/github/discussions-search?style=for-the-badge&logoColor=FAF4C0">
 
